@@ -1,0 +1,26 @@
+body {
+	background-color: #FFFFDE;
+	color: #5A0000;
+	font-family: sans-serif;
+}
+
+
+header h1{
+	color : red;
+}
+
+}
+
+dd,dt {
+	margin-left: 0;
+}
+
+dt {
+	margin-top: 0.5em;
+}
+
+dd {
+	font-weight: bold;
+}
+
+
